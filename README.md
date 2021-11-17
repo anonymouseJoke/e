@@ -15,6 +15,5 @@
 ---
 [![Website](https://img.shields.io/website?label=Secretguard&style=for-the-badge&url=https%3A%2F%2Fsecretguard.xyz)](https://secretguard.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/joke_coke?color=%2388a9f2%20&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F&screen_name=joke_coke)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_3yl4s0m0_47ry3DSy3J-g?color=blue&label=subscribe&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/user/HaplessSplash40?view_as=subscriber?sub_confirmation=1)
-[instagram]: https://instagram.com/Hapless_memez
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_3yl4s0m0_47ry3DSy3J-g?color=blue&label=subscribe&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/HaplessSplash40?view_as=subscriber?sub_confirmation=1)
 
