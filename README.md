@@ -13,7 +13,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 ---
-[![website]: https://secretguard.xyz
+[website]: https://secretguard.xyz
 [twitter]: https://twitter.com/joke_coke
 [youtube]: https://youtube.com/HaplessSplash40
 [instagram]: https://instagram.com/Hapless_memez
